@@ -1,4 +1,5 @@
 <?php include("includes/header.php"); ?>
+<?php include 'includes/count.php';?>
 <?php
 	
 	if(isset($_POST["register"])){

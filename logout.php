@@ -1,3 +1,4 @@
+<?php include 'includes/count.php';?>
 <?php
 	session_start();
 	unset($_SESSION['session_username']);

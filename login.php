@@ -1,4 +1,5 @@
 <?php include("includes/header.php"); ?>
+<?php include 'includes/count.php';?>
 <?php session_start(); ?>
 
 	<?php require_once("includes/connection.php"); ?>
